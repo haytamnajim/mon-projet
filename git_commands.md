@@ -4,7 +4,8 @@
 
 <h2>Task 2: Create a new branch dev</h2>
 <p>Create and push any test file in the dev branch.</p>
-<img src="task2.png" alt="Task 2">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152130.png" alt="Task 2">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152144.png" alt="Task 2">
 
 <h2>Task 3: Create a new branch %USERNAME-new_feature</h2>
 <p>Add README.md file to your %USERNAME-new_feature branch.</p>
