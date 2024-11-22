@@ -1,6 +1,6 @@
 <h2>Task 1: Create Task1 folder in the master branch</h2>
 <p>Create and push ./Task1/README.md file.</p>
-<img src="task1.png" alt="Task 1">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152115.png" alt="Task 1">
 
 <h2>Task 2: Create a new branch dev</h2>
 <p>Create and push any test file in the dev branch.</p>
