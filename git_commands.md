@@ -25,7 +25,7 @@
 
 <h2>Task 7: Create Pull Request</h2>
 <p>Create a Pull Request to the dev branch.</p>
-<img src="" alt="Task 7">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152359.png" alt="Task 7">
 
 <h2>Task 8: Merge branches</h2>
 <p>Merge your branch with the dev branch and create a Pull Request to the master branch. Merge dev with master.</p>
@@ -48,3 +48,34 @@
 <h2>Task 12: Add used commands</h2>
 <p>Add all used commands to the <code>git_commands.md</code> file in the dev branch.</p>
 <img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152455.png" alt="Task 12">
+<h2>14</h2>
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152115.png" alt="Task 1">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152130.png" alt="Task 2">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152144.png" alt="Task 3">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152202.png" alt="Task 4">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152212.png" alt="Task 5">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152221.png" alt="Task 8">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152228.png" alt="Task 9">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152246.png" alt="Task 10">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152246.png" alt="Task 11">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152254.png" alt="Task 12">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152301.png" alt="Task 13">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152309.png" alt="Task 14">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152316.png" alt="Task 15">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152321.png" alt="Task 16">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152327.png" alt="Task 17">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152333.png" alt="Task 18">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152340.png" alt="Task 19">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152346.png" alt="Task 2">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152354.png" alt="Task 1">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152359.png" alt="Task 1">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152406.png" alt="Task 1">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152406.png" alt="Task 1">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152410.png" alt="Task 1">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152425.png" alt="Task 1">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152430.png" alt="Task 1">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152430.pn" alt="Task 1">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152436.png" alt="Task 1">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152440.png" alt="Task 1">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152447.png" alt="Task 1">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152455.png" alt="Task 1">
