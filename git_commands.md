@@ -29,20 +29,22 @@
 
 <h2>Task 8: Merge branches</h2>
 <p>Merge your branch with the dev branch and create a Pull Request to the master branch. Merge dev with master.</p>
-<img src="task8.png" alt="Task 8">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152254.png" alt="Task 8">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152309.png" alt="Task 8">
 
 <h2>Task 9: Revert the last commit</h2>
 <p>Checkout to %USERNAME-new_feature, make changes in README.md, commit them, and revert the last commit in the branch.</p>
-<img src="task9.png" alt="Task 9">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152254.png" alt="Task 9">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152309.png" alt="Task 9">
 
 <h2>Task 10: Save git log</h2>
 <p>Check your repository with the git log command. Create a log.txt file in the master branch and save the <code>git log</code> output in it.</p>
-<img src="task10.png" alt="Task 10">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152254.png" alt="Task 10">
 
 <h2>Task 11: Delete branch</h2>
 <p>Delete the local and remote branch %USERNAME-new_feature.</p>
-<img src="task11.png" alt="Task 11">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152436.png" alt="Task 11">
 
 <h2>Task 12: Add used commands</h2>
 <p>Add all used commands to the <code>git_commands.md</code> file in the dev branch.</p>
-<img src="task12.png" alt="Task 12">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152455.png" alt="Task 12">
