@@ -9,15 +9,15 @@
 
 <h2>Task 3: Create a new branch %USERNAME-new_feature</h2>
 <p>Add README.md file to your %USERNAME-new_feature branch.</p>
-<img src="task3.png" alt="Task 3">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152202.png" alt="Task 3">
 
 <h2>Task 4: Check the repository status</h2>
 <p>Use the <code>git status</code> command to check the repository.</p>
-<img src="task4.png" alt="Task 4">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152212.png" alt="Task 4">
 
 <h2>Task 5: Add .gitignore file</h2>
 <p>Ignore all files whose name begins with “.”</p>
-<img src="task5.png" alt="Task 5">
+<img src="https://github.com/haytamnajim/mon-projet/blob/main/images/Screenshot%202024-11-22%20152228.png" alt="Task 5">
 
 <h2>Task 6: Commit and push changes</h2>
 <p>Push the changes to the GitHub repository.</p>
@@ -25,7 +25,7 @@
 
 <h2>Task 7: Create Pull Request</h2>
 <p>Create a Pull Request to the dev branch.</p>
-<img src="task7.png" alt="Task 7">
+<img src="" alt="Task 7">
 
 <h2>Task 8: Merge branches</h2>
 <p>Merge your branch with the dev branch and create a Pull Request to the master branch. Merge dev with master.</p>
